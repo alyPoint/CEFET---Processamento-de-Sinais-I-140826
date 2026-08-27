@@ -9,12 +9,10 @@ Essa pasta contém os códigos e arquivos utilizados na primeira prática da dis
   - LISTA_1_Q_5_e_Q_6.iynb (Questão 5 e 6 da Aula Prática)
 
 
-## Requisitos
-Para executar os códigos, são necessários:
+## Requisitos para executar os códigos
 - Conta Google para utilizar o Google Colab
 − Abrir Jupyter Notebook
 
 
 ## Autores
-Vitor Kenji Kameyama
-Luan Mattos dos Santos
+Vitor Kenji Kameyama e Luan Mattos dos Santos
