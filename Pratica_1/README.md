@@ -4,6 +4,7 @@ Essa pasta contém os códigos e arquivos utilizados na primeira prática da dis
 
 
 ## Conteúdo
+  - PDF da Aula Prática com as Questões
   - DSP_1_PRATICA1.iynb (Questão 1 da Aula Prática)
   - DSP_Prática_1(teste).iynb (Questão 2 e 3 da Aula Prática)
   - LISTA_1_Q_5_e_Q_6.iynb (Questão 5 e 6 da Aula Prática)
