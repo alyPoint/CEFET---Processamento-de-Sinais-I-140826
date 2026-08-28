@@ -15,8 +15,8 @@ Para executar os códigos, são necessários:
 
 
 ## Autores
-Vitor Kenji Kameyama
-Luan Mattos dos Santos
+- Vitor Kenji Kameyama 
+- Luan Mattos dos Santos
 
 Processamento de Sinais I
 CEFET/RJ - Maracanã
