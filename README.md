@@ -8,6 +8,9 @@ Repositório contendo os códigos e arquivos utilizados nas aulas práticas da d
   - DSP_Prática_1(teste).iynb (Questão 2 e 3 da Aula Prática)
   - LISTA_1_Q_5_e_Q_6.iynb (Questão 5 e 6 da Aula Prática)
 
+- Prática 2
+  - DSP_1_PRATICA_2.iynb (Todas as Questões da Aula Prática)  
+
 ## Requisitos
 Para executar os códigos, são necessários:
 - Conta Google para utilizar o Google Colab
@@ -17,6 +20,7 @@ Para executar os códigos, são necessários:
 ## Autores
 - Vitor Kenji Kameyama 
 - Luan Mattos dos Santos
+- Guilherme Leoni Ferreira do Nascimento 
 
 Processamento de Sinais I
 CEFET/RJ - Maracanã
