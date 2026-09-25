@@ -13,6 +13,9 @@ Repositório contendo os códigos e arquivos utilizados nas aulas práticas da d
 
 - Prática 3
   - DSP_1_PRATICA_3.iynp (Todas as Questões da Aula Prática)
+ 
+- Prática 4
+  - DSP_1_PRATICA_4.iynp (Todas as Questões da Aula Prática)
 
 ## Requisitos
 Para executar os códigos, são necessários:
